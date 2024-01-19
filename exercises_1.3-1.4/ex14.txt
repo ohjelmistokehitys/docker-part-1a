@@ -1,0 +1,6 @@
+# Copy the commands you used to start process below this comment:
+docker run -it ubuntu sh -c 'while true; do echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website; done'
+
+# Copy the command(s) you used to fix the ensuing problems below this comment:
+apt update
+apt install curl

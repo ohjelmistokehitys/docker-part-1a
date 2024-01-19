@@ -10,7 +10,7 @@ Start 3 containers from an image that does not automatically exit (such as nginx
 
 Stop two of the containers and leave one container running.
 
-Submit the output for <code>docker ps -a</code> which shows 2 stopped containers and one running.
+Save the output for <code>docker ps -a</code> which shows 2 stopped containers and one running into the file [ex11.txt](./ex12.txt).
 
 ## Exercise 1.2: Cleanup
 
@@ -18,4 +18,4 @@ We have containers and an image that are no longer in use and are taking up spac
 
 Clean the Docker daemon by removing all images and containers.
 
-Submit the output for <code>docker ps -a</code> and <code>docker images</code>
+Save the output for <code>docker ps -a</code> and <code>docker images</code> into the file [ex12.txt](./ex12.txt).

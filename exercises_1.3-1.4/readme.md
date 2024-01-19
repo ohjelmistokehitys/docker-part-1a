@@ -4,6 +4,7 @@ https://devopswithdocker.com/part-1/section-2#exercise-13
 
 https://devopswithdocker.com/part-1/section-2#exercise-14
 
+
 ## Exercise 1.3: Secret message
 
 Now that we've warmed up it's time to get inside a container while it's running!
@@ -12,7 +13,7 @@ Image `devopsdockeruh/simple-web-service:ubuntu` will start a container that out
 Go inside the container and use `tail -f ./text.log` to follow the logs.
 Every 10 seconds the clock will send you a "secret message".
 
-Submit the secret message and command(s) given as your answer.
+Save the secret message and command(s) given in the file [ex13.txt](./ex13.txt).
 
 
 ## Exercise 1.4: Missing dependencies
@@ -48,9 +49,11 @@ Test inputting `helsinki.fi` into the application. It should respond with someth
 </html>
 ```
 
-This time return the command you used to start process and the command(s) you used to fix the ensuing problems.
 
 **Hint** for installing the missing dependencies you could start a new process with `docker exec`.
 
-* This exercise has multiple solutions, if the curl for helsinki.fi works then it's done. Can you figure out other (smart) solutions?
+**Hint** installation of the `curl` command in the Ubuntu container works just like installing `curl` in any Ubuntu installation. However, you will be logged in as `root` and therefore should not use the `sudo` command.
 
+💡 This exercise has multiple solutions, if the curl for helsinki.fi works then it's done. Can you figure out other (smart) solutions?
+
+Save the commands you used to start process and the command(s) you used to fix the ensuing problems in the file [ex14.txt](./ex14.txt).

@@ -2,6 +2,21 @@
 
 This repository contains teamplates and automated checks for the first exercises for the [DevOps with Docker course](https://devopswithdocker.com/).
 
+The exercises are structured as follows:
+
+* [**exercises_0**](./exercises_0/) (0 p)
+
+    A sample exercise, which already has a working solution.
+
+* [**exercises_1.1-1.2**](./exercises_1.1-1.2/) (1 + 1 p)
+
+    Exercises 1.1 and 1.2 from the [mooc course part 1, section 1](https://devopswithdocker.com/part-1/section-1).
+
+* [**exercises_1.3-1.4**](./exercises_1.3-1.4/) (1 + 2 p)
+
+    Exercises 1.3 and 1.4 from the [mooc course part 1, section 2](https://devopswithdocker.com/part-1/section-2).
+
+
 
 ## Credits
 

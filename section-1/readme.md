@@ -1,6 +1,6 @@
-# Exercises 1.1-1.2
+# Part 1 section 1
 
-The theory for the following exercises is presented at https://devopswithdocker.com/part-1/section-1#exercises-11-12.
+The theory for the following exercises is presented at https://devopswithdocker.com/part-1/section-1.
 
 ## Exercise 1.1: Getting started
 

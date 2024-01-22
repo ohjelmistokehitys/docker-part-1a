@@ -1,6 +1,9 @@
-## Exercise 1.5: Sizes of images
+# Part 1 section 3
 
-https://devopswithdocker.com/part-1/section-3#exercises-15---16
+The theory for the following exercises is presented at https://devopswithdocker.com/part-1/section-3.
+
+
+## Exercise 1.5: Sizes of images (10 %)
 
 > In the [Exercise 1.3](https://devopswithdocker.com/part-1/section-2#exercise-13) we used `devopsdockeruh/simple-web-service:ubuntu`.
 >
@@ -10,10 +13,10 @@ https://devopswithdocker.com/part-1/section-3#exercises-15---16
 >
 > Source: https://devopswithdocker.com/part-1/section-3
 
-**Save the command(s) you used and the output in the file [ex15.txt](./ex15.txt).**
+**Run the command that displays the sizes of these images and save the output in the file [ex15.txt](./ex15.txt).**
 
 
-## Exercise 1.6: Hello Docker Hub
+## Exercise 1.6: Hello Docker Hub (10 %)
 
 > Run `docker run -it devopsdockeruh/pull_exercise`.
 >
@@ -26,9 +29,7 @@ https://devopswithdocker.com/part-1/section-3#exercises-15---16
 **Save the secret message in the file [ex16.txt](./ex16.txt)**
 
 
-## Exercise 1.7: Image for script
-
-https://devopswithdocker.com/part-1/section-3#exercises-17---18
+## Exercise 1.7: Image for script (20 %)
 
 > We can improve our previous solutions now that we know how to create and build a Dockerfile.
 >
@@ -74,7 +75,7 @@ https://devopswithdocker.com/part-1/section-3#exercises-17---18
 Note that the [script.sh](./script.sh) does not contain a loop, unlike the original version of this exercise. This makes the solution easier to test automatically.
 
 
-## Exercise 1.8: Two line Dockerfile
+## Exercise 1.8: Two line Dockerfile (20 %)
 
 > By default our `devopsdockeruh/simple-web-service:alpine` doesn't have a CMD. It instead uses _ENTRYPOINT_ to declare which application is run.
 >
@@ -120,10 +121,10 @@ When there are multiple Dockerfiles or your Dockerfile has a custom name, you wi
 docker build . --file server.Dockerfile --tag web-server
 ```
 
-After the image is built, we can start a new container with it:
+After the image is built, you can start a new container with it:
 
 ```sh
 docker run -it --rm --publish 8080:8080 web-server
 ```
 
-In the above command, we use the [argument `--rm` to automatically remove the container when it exits](https://docs.docker.com/engine/reference/commandline/container_run/), and the [`--publish 8080:8080` to publish the container's port 8080 on our host system](https://docs.docker.com/engine/reference/commandline/container_run/).
+In the above command, the [argument `--rm` automatically removes the container when it exits](https://docs.docker.com/engine/reference/commandline/container_run/), and the [`--publish 8080:8080` to publishes the container's port 8080 on the host system](https://docs.docker.com/engine/reference/commandline/container_run/).

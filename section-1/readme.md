@@ -2,7 +2,8 @@
 
 The theory for the following exercises is presented at https://devopswithdocker.com/part-1/section-1.
 
-## Exercise 1.1: Getting started
+
+## Exercise 1.1: Getting started (10 %)
 
 > Since we already did "Hello, World!" in the material let's do something else.
 >
@@ -14,7 +15,7 @@ The theory for the following exercises is presented at https://devopswithdocker.
 
 **Save the output for <code>docker ps -a</code> which shows 2 stopped containers and one running into the file [ex11.txt](./ex12.txt).**
 
-## Exercise 1.2: Cleanup
+## Exercise 1.2: Cleanup (10 %)
 
 > We have containers and an image that are no longer in use and are taking up space. Running <code>docker ps -as</code> and <code>docker images</code> will confirm this.
 >

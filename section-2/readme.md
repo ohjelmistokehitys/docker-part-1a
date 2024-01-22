@@ -1,9 +1,9 @@
-# Exercises 1.3-1.4
+# Part 1 section 2
 
 The theory for the following exercises is presented at https://devopswithdocker.com/part-1/section-2.
 
 
-## Exercise 1.3: Secret message
+## Exercise 1.3: Secret message (10 %)
 
 > Now that we've warmed up it's time to get inside a container while it's running!
 >
@@ -16,7 +16,7 @@ The theory for the following exercises is presented at https://devopswithdocker.
 **Save the secret message and command(s) given in the file [ex13.txt](./ex13.txt).**
 
 
-## Exercise 1.4: Missing dependencies
+## Exercise 1.4: Missing dependencies (10 %)
 
 > Start a Ubuntu image with the process:
 >

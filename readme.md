@@ -5,18 +5,21 @@ This repository contains teamplates and automated checks for the first exercises
 The exercises are grouped by their sections in the [My Site Logo
 DevOps with Docker](https://devopswithdocker.com) course:
 
-* [**section 0**](./section-0/) (0 p)
+* [**section 0**](./section-0/)
 
     A sample exercise, which already has a working solution.
 
-* [**section 1**](./section-1/) (1 + 1 p)
+* [**section 1**](./section-1/)
 
     Exercises 1.1 and 1.2 from the [mooc course part 1, section 1](https://devopswithdocker.com/part-1/section-1).
 
-* [**section 2**](./section-2/) (1 + 2 p)
+* [**section 2**](./section-2/)
 
     Exercises 1.3 and 1.4 from the [mooc course part 1, section 2](https://devopswithdocker.com/part-1/section-2).
 
+* [**section 3**](./section-3/)
+
+    Exercises 1.5, 1.6, 1.7 and 1.8 from the [mooc course part 1, section 3](https://devopswithdocker.com/part-1/section-3).
 
 ## How to complete this exercise
 

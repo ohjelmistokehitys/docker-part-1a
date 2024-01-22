@@ -113,7 +113,7 @@ Note that the [script.sh](./script.sh) does not contain a loop, unlike the origi
 >
 > Source: https://devopswithdocker.com/part-1/section-3
 
-*Save your solution to the file [server.Dockerfile](./server.Dockerfile).*
+**Save your solution to the file [server.Dockerfile](./server.Dockerfile).**
 
 When there are multiple Dockerfiles or your Dockerfile has a custom name, you will need to [specify which file to use when building](https://docs.docker.com/engine/reference/commandline/image_build/#file). In this exercise, we need to use the file [server.Dockerfile](./server.Dockerfile), so our build command could be:
 

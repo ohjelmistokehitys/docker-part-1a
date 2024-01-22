@@ -11,7 +11,7 @@ The theory for the following exercises is presented at https://devopswithdocker.
 > Go inside the container and use `tail -f ./text.log` to follow the logs.
 > Every 10 seconds the clock will send you a "secret message".
 >
-> https://devopswithdocker.com/part-1/section-2#exercise-13
+> Source: https://devopswithdocker.com/part-1/section-2#exercise-13
 
 **Save the secret message and command(s) given in the file [ex13.txt](./ex13.txt).**
 
@@ -58,6 +58,6 @@ The theory for the following exercises is presented at https://devopswithdocker.
 >
 > 💡 This exercise has multiple solutions, if the curl for helsinki.fi works then it's done. Can you figure out other (smart) solutions?
 >
-> https://devopswithdocker.com/part-1/section-2#exercise-14
+> Source: https://devopswithdocker.com/part-1/section-2#exercise-14
 
 **Save the commands you used to start process and the command(s) you used to fix the ensuing problems in the file [ex14.txt](./ex14.txt).**

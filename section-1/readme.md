@@ -10,7 +10,7 @@ The theory for the following exercises is presented at https://devopswithdocker.
 >
 > Stop two of the containers and leave one container running.
 >
-> https://devopswithdocker.com/part-1/section-1#exercises-11-12
+> Source: https://devopswithdocker.com/part-1/section-1#exercises-11-12
 
 **Save the output for <code>docker ps -a</code> which shows 2 stopped containers and one running into the file [ex11.txt](./ex12.txt).**
 
@@ -20,6 +20,6 @@ The theory for the following exercises is presented at https://devopswithdocker.
 >
 > Clean the Docker daemon by removing all images and containers.
 >
-> https://devopswithdocker.com/part-1/section-1#exercises-11-12
+> Source: https://devopswithdocker.com/part-1/section-1#exercises-11-12
 
 **Save the output for <code>docker ps -a</code> and <code>docker images</code> into the file [ex12.txt](./ex12.txt).**

@@ -39,4 +39,4 @@ Automated grading is implemented using GitHub actions and GitHub classroom. Afte
 >
 > This material is licenced under [Creative Commons BY-NC-SA 3.0 -licence](http://creativecommons.org/licenses/by-nc-sa/3.0/), so you can freely use and distribute the material, as long as original creators are credited. If you make changes to material and you want to distribute altered version it must be licenced under the same licence. Usage of material for commercial use is prohibited without permission.
 >
-> https://devopswithdocker.com/credits
+> Source: https://devopswithdocker.com/credits

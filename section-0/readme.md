@@ -61,7 +61,7 @@ Read more about the exercise here: https://devopswithdocker.com/part-1/section-1
 >
 > It found the **image** locally so it skipped right to running the hello-world.
 >
-> https://devopswithdocker.com/part-1/section-1
+> Source: https://devopswithdocker.com/part-1/section-1
 
 **To complete this exercise, copy the output of the command you executed in [ex00.txt](./ex00.txt).**
 

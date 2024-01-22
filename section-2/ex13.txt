@@ -1,4 +1,4 @@
 # Fill the secret message below this line:
-Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+Secret message is:
 
 # Add the command(s) given below this line:

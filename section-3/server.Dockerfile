@@ -1,2 +1,1 @@
-FROM devopsdockeruh/simple-web-service:alpine
-CMD ["server"]
+# Implement this Dockerfile in exercise 1.8

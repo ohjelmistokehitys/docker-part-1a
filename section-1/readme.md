@@ -13,7 +13,8 @@ The theory for the following exercises is presented at https://devopswithdocker.
 >
 > Source: https://devopswithdocker.com/part-1/section-1#exercises-11-12
 
-**Save the output for <code>docker ps -a</code> which shows 2 stopped containers and one running into the file [ex11.txt](./ex12.txt).**
+**Save the output for <code>docker ps -a</code> which shows 2 stopped containers and one running into the file [ex11.txt](./ex11.txt).**
+
 
 ## Exercise 1.2: Cleanup (10 %)
 

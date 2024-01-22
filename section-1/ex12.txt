@@ -1,7 +1,3 @@
 # Copy the output of `docker ps -a` below this comment:
-@swd1tn002 ➜ /workspaces/docker-part-1a (main) $ docker ps -a
-CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 
 # Copy the output of `docker ps -a` below this comment:
-@swd1tn002 ➜ /workspaces/docker-part-1a (main) $ docker images
-REPOSITORY   TAG       IMAGE ID   CREATED   SIZE

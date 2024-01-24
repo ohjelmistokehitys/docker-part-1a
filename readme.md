@@ -1,35 +1,39 @@
 # Devops with Docker part 1a
 
-This repository contains teamplates and automated checks for the first exercises for the [DevOps with Docker course](https://devopswithdocker.com/).
+This repository contains teamplates and automated checks for the first three sections in the [DevOps with Docker course](https://devopswithdocker.com/):
 
-The exercises are grouped by their sections in the [My Site Logo
-DevOps with Docker](https://devopswithdocker.com) course:
+* [Definitions and basic concepts](https://devopswithdocker.com/part-1/section-1)
+* [Running and stopping containers](https://devopswithdocker.com/part-1/section-2)
+* [In-depth dive to images](https://devopswithdocker.com/part-1/section-3)
 
-* [**section 0**](./section-0/)
+The exercises are grouped in folders by their sections in the [DevOps with Docker](https://devopswithdocker.com) course:
+
+* [**section-0**](./section-0/)
 
     A sample exercise, which already has a working solution.
 
-* [**section 1**](./section-1/)
+* [**section-1**](./section-1/)
 
-    Exercises 1.1 and 1.2 from the [mooc course part 1, section 1](https://devopswithdocker.com/part-1/section-1).
+    Exercises 1.1 and 1.2 from [section 1: Definitions and basic concepts](https://devopswithdocker.com/part-1/section-1).
 
-* [**section 2**](./section-2/)
+* [**section-2**](./section-2/)
 
-    Exercises 1.3 and 1.4 from the [mooc course part 1, section 2](https://devopswithdocker.com/part-1/section-2).
+    Exercises 1.3 and 1.4 from [section 2: Running and stopping containers](https://devopswithdocker.com/part-1/section-2).
 
-* [**section 3**](./section-3/)
+* [**section-3**](./section-3/)
 
-    Exercises 1.5, 1.6, 1.7 and 1.8 from the [mooc course part 1, section 3](https://devopswithdocker.com/part-1/section-3).
+    Exercises 1.5, 1.6, 1.7 and 1.8 from [section 3: In-depth dive to images](https://devopswithdocker.com/part-1/section-3).
+
 
 ## How to complete this exercise
 
 First, make sure you are working ony our personal copy of the repository. You can find more information about that in the course assignment.
 
-Complete the exercises while reading the course material and the [Docker documentation](https://docs.docker.com/). You will likely need to read the documentation specific containers used in the exercises.
+Complete the exercises while reading [the course material](https://devopswithdocker.com/) and the [Docker documentation](https://docs.docker.com/). You will also need to read the documentation for specific containers used in the exercises.
 
 Copy the outputs or the commands you use based on the instructions in individual assignments. Commit and push your solutions to your repository to invoke the automated grading.
 
-Automated grading is implemented using GitHub actions and GitHub classroom. After each commit, a new workflow will be run, and it will automatically evaluate your solutions. You can push new solutions as many times as necessary until the deadline of the exercise.
+Automated grading is implemented using GitHub actions and GitHub classroom. After each commit, a new workflow will be run, and it will automatically evaluate your solutions. You can see the autograding results as well as each test and their outputs in the *actions* tab under *Classroom Autograding Workflow*. You can push new solutions as many times as necessary until the deadline of the exercise.
 
 
 ## Credits

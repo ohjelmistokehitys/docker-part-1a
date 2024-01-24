@@ -24,4 +24,6 @@ The theory for the following exercises is presented at https://devopswithdocker.
 >
 > Source: https://devopswithdocker.com/part-1/section-1#exercises-11-12
 
-**Save the output for <code>docker ps -a</code> and <code>docker images</code> into the file [ex12.txt](./ex12.txt).**
+**Save the output for <code>docker ps -as</code> and <code>docker images</code> into the file [ex12.txt](./ex12.txt).**
+
+💡 *You don't necessarily need to remove **all** images and containers, if you have ones that are not related to this exercise. It is enough to remove all `hello-world` and `nginx` related ones.*

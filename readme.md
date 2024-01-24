@@ -1,4 +1,4 @@
-# Devops with Docker part 1a
+# DevOps with Docker part 1a
 
 This repository contains teamplates and automated checks for the first three sections in the [DevOps with Docker course](https://devopswithdocker.com/):
 

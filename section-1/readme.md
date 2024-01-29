@@ -15,6 +15,8 @@ The theory for the following exercises is presented at https://devopswithdocker.
 
 **Save the output for <code>docker ps -a</code> which shows 2 stopped containers and one running into the file [ex11.txt](./ex11.txt).**
 
+💡 *Make sure to include the *full output* including the **header rows**.*
+
 
 ## Exercise 1.2: Cleanup (10 %)
 
@@ -25,5 +27,7 @@ The theory for the following exercises is presented at https://devopswithdocker.
 > Source: https://devopswithdocker.com/part-1/section-1#exercises-11-12
 
 **Save the output for <code>docker ps -as</code> and <code>docker images</code> into the file [ex12.txt](./ex12.txt).**
+
+💡 *Make sure to include the *full output* including the **header rows**.*
 
 💡 *You don't necessarily need to remove **all** images and containers, if you have ones that are not related to this exercise. It is enough to remove all `hello-world` and `nginx` related ones.*

@@ -1,6 +1,6 @@
 # DevOps with Docker part 1a
 
-This repository contains teamplates and automated checks for the first three sections in the [DevOps with Docker course](https://devopswithdocker.com/):
+This repository contains templates and automated checks for the first three sections in the [DevOps with Docker course](https://devopswithdocker.com/):
 
 * [Definitions and basic concepts](https://devopswithdocker.com/part-1/section-1)
 * [Running and stopping containers](https://devopswithdocker.com/part-1/section-2)

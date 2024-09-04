@@ -27,7 +27,7 @@ The exercises are grouped in folders by their sections in the [DevOps with Docke
 
 ## How to complete this exercise
 
-First, make sure you are working ony our personal copy of the repository. You can find more information about that in the course assignment.
+First, make sure you are working on your personal copy of the repository. You can find more information about that in the course assignment.
 
 Complete the exercises while reading [the course material](https://devopswithdocker.com/) and the [Docker documentation](https://docs.docker.com/). You will also need to read the documentation for specific containers used in the exercises.
 
